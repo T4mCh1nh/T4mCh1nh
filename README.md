@@ -1,7 +1,7 @@
 ![MasterHead](https://images.steamusercontent.com/ugc/860610936970035491/D79FACBBBD36CC6164370B7D690616D6D2DDC4D2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 <h1 align="center">Hi 👋, I'm Pham Tam Chinh</h1>
-<h3 align="center">My objective is to enhance my hands-on AI research capabilities and impact real-world AI products. Following my internship, I plan to secure a role as a fresher AI Engineer, intending to specialize and advance into a Junior AI Engineer position focused on computer vision.</h3>
+<h3 align="center">My objective is to enhance my hands-on AI research capabilities and impact real-world AI products. Following my internship, I plan to secure a role as a fresher AI Engineer, intending to specialize and advance into a Junior AI Engineer position focused on computer vision and NLP.</h3>
 
 ### Contact :
 - Facebook: <a href="https://www.facebook.com/t4mch1nh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrxz194" height="30" width="40" /></a>
